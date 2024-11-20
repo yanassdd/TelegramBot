@@ -5,7 +5,7 @@ import threading
 import time
 
 # Токен вашого бота
-token = '7968215332:AAECtRGmp0MyjUx6D7j5r1jLD6L32RVOtqc'
+token = 'MY_TOKEN'
 bot = telebot.TeleBot(token)
 
 # Змінні для збереження даних
